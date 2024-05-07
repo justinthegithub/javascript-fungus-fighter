@@ -4,6 +4,7 @@
 // let fungusHP = 100;
 let fungusHP=100;
 let fungusAp=100;
+console.log("test")
 function onReady() {
     console.log("Ready to go!")
     
